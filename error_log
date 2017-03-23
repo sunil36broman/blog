@@ -1,0 +1,5 @@
+[20-Dec-2016 08:06:27 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\prancs() in /home/livebroadcast/public_html/laravelblog/app/Http/Controllers/BlogController.php on line 13
+[20-Dec-2016 08:06:41 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\prancs() in /home/livebroadcast/public_html/laravelblog/app/Http/Controllers/BlogController.php on line 13
+[20-Dec-2016 08:08:09 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\prancs() in /home/livebroadcast/public_html/laravelblog/app/Http/Controllers/BlogController.php on line 13
+[20-Dec-2016 08:08:46 UTC] PHP Fatal error:  Call to undefined function App\Http\Controllers\prancs() in /home/livebroadcast/public_html/laravelblog/app/Http/Controllers/BlogController.php on line 13
+[20-Dec-2016 08:50:32 UTC] PHP Parse error:  syntax error, unexpected 'class' (T_CLASS), expecting ')' in /home/livebroadcast/public_html/laravelblog/storage/framework/views/cde6619a88ea3f577b2ea30efbeed293d306b8f7.php on line 23
